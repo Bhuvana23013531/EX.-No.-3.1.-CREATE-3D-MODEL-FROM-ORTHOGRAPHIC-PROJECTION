@@ -1,5 +1,8 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+## DATE:08-03-2024
+## Name:Bhuvaneshwari M
+## Department:AI&DS
+## Register No:212223230033
 
 ## AIM:
 To create a 3D model from given orthographic projection.
@@ -41,6 +44,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+![Screenshot 2024-03-08 114156](https://github.com/Bhuvana23013531/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/147125678/eda755bb-c570-4fbd-8f78-a0ebe16cfc44)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
